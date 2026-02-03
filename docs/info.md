@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Some logic gates connected to the 7-segment display. There is no real logic behind it, so don't expect any 
 
 ## How to test
 
-Explain how to use your project
+Play around with the inputs and see what happens.
+
+| input | output |
+|-------|--------|
+| x     | x      |
 
 ## External hardware
 
